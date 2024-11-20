@@ -22,16 +22,12 @@ Non-Linear Structures
 
 🔍 Binary Search Tree
 
-🛠️ Heap (Min & Max)
-
 🌐 Graph (Adjacency List/Matrix)
 
 
 Advanced
 
 🗂️ Hash Table
-
-✨ Trie
 
 🎯 Priority Queue
 
