@@ -32,28 +32,9 @@ Advanced
 🎯 Priority Queue
 
 
-🛠️ How to Run
-
-1. Clone the repository:
-
-git clone https://github.com/<your-username>/<repo-name>.git  
-cd <repo-name>
-
-
-2. Compile any file:
-
-gcc <data_structure>.c -o <output_file>  
-./<output_file>
 
 
 
-💡 Contribution
-
-Want to improve this repo? Fork it, make your changes, and submit a pull request!
-
-📜 License
-
-This project is licensed under the MIT License.
 
 
 ---
