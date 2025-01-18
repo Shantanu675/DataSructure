@@ -30,13 +30,3 @@ Advanced
 🗂️ Hash Table
 
 🎯 Priority Queue
-
-
-
-
-
-
-
----
-
-Let me know if you need help tweaking this further! 🎉
